@@ -1,0 +1,23 @@
+:root{
+ line-height: 1.5;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body {
+  margin: 0 auto;
+  max-width: 1200px;
+  min-height: 100vh;
+  padding: 10px;
+  background-color: #131315;
+  color: #fff;
+}
+
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+a{
+ text-decoration: inherit;
+ color: inherit;
+}
